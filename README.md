@@ -4,5 +4,5 @@ Hello my name is Emrullah Yildirim and I'm 18 years old. I want to be a full-sta
 Here is some technologies I use.
 
 <div align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/RealEmur/count.svg)
+  <img src="https://profile-counter.glitch.me/RealEmur/count.svg"/>
 </div>
