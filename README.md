@@ -4,5 +4,5 @@ Hello my name is Emrullah Yildirim and I'm 18 years old. I want to be a full-sta
 Here is some technologies I use.
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RealEmur/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=RealEmur&color=756428"/>
 </div>
