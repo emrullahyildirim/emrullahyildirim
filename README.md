@@ -4,5 +4,5 @@ Hello my name is Emrullah Yildirim and I'm 18 years old. I want to be a full-sta
 Here is some technologies I use.
 
 <div align="center">
-  ![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+  ![counter](https://RealEmur.m.pipedream.net)
 </div>
