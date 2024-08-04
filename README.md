@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/RealEmur/RealEmur/output/snake.svg" alt="Snake animation" />
-
-###
