@@ -2,10 +2,6 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <div align="left">
   <p><img src="https://komarev.com/ghpvc/?username=realemur&label=Profile%20views&color=ff0000&style=plastic" alt="realemur" /> </p>
 </div>
